@@ -3,7 +3,7 @@
 public class Main {
 
 
-
+///Author : Omkar
 
     public static void main(String[] args) {
        SpeedConversion.checknumber(10);
