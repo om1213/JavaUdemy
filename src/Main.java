@@ -3,7 +3,7 @@
 public class Main {
 
 
-///Author : Omkar Mapuskar on 24May 2021 - Along with Amrutha
+///Author : Omkar Mapuskar on 24May 2021 - Along with Amrutha Namboodiripad
 
     public static void main(String[] args) {
        SpeedConversion.checknumber(10);
